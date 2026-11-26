@@ -74,6 +74,16 @@ def esc(s):
     return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
 
+
+def _dedupe(tag_attrs, extra):
+    """extra ichidagi atributlar standart qiymatlarni almashtiradi (XML da
+    takroriy atribut bo'lmasligi uchun)."""
+    import re as _re
+    for name in _re.findall(r'([\w:-]+)="', extra):
+        tag_attrs = _re.sub(r'\s' + _re.escape(name) + r'="[^"]*"', '', tag_attrs)
+    return tag_attrs + extra
+
+
 def text(x, y, s, size=FS, anchor="start", fill=BLUE, weight="normal",
          extra=""):
     w = "" if weight == "normal" else f' font-weight="{weight}"'
@@ -90,39 +100,43 @@ def text_lines(x, y, lines, size=FS, anchor="start", fill=BLUE, lh=1.18,
 
 
 def line(x1, y1, x2, y2, stroke=BLUE, sw=SW, extra=""):
-    return (f'<line x1="{f(x1)}" y1="{f(y1)}" x2="{f(x2)}" y2="{f(y2)}" '
-            f'stroke="{stroke}" stroke-width="{f(sw)}" '
-            f'stroke-linecap="round"{extra}/>')
+    a = (f' x1="{f(x1)}" y1="{f(y1)}" x2="{f(x2)}" y2="{f(y2)}" '
+         f'stroke="{stroke}" stroke-width="{f(sw)}" stroke-linecap="round"')
+    return f'<line{_dedupe(a, extra)}/>' 
 
 
 def polyline(points, stroke=BLUE, sw=SW, fill="none", extra=""):
-    return (f'<polyline points="{pts(points)}" fill="{fill}" stroke="{stroke}" '
-            f'stroke-width="{f(sw)}" stroke-linecap="round" '
-            f'stroke-linejoin="round"{extra}/>')
+    a = (f' points="{pts(points)}" fill="{fill}" stroke="{stroke}" '
+         f'stroke-width="{f(sw)}" stroke-linecap="round" stroke-linejoin="round"')
+    return f'<polyline{_dedupe(a, extra)}/>' 
 
 
 def polygon(points, fill=CREAM, stroke=BLUE, sw=SW, extra=""):
     st = "none" if stroke is None else stroke
-    return (f'<polygon points="{pts(points)}" fill="{fill}" stroke="{st}" '
-            f'stroke-width="{f(sw)}" stroke-linejoin="round"{extra}/>')
+    a = (f' points="{pts(points)}" fill="{fill}" stroke="{st}" '
+         f'stroke-width="{f(sw)}" stroke-linejoin="round"')
+    return f'<polygon{_dedupe(a, extra)}/>' 
 
 
 def circle(cx, cy, r, fill=CREAM, stroke=BLUE, sw=SW, extra=""):
     st = "none" if stroke is None else stroke
-    return (f'<circle cx="{f(cx)}" cy="{f(cy)}" r="{f(r)}" fill="{fill}" '
-            f'stroke="{st}" stroke-width="{f(sw)}"{extra}/>')
+    a = (f' cx="{f(cx)}" cy="{f(cy)}" r="{f(r)}" fill="{fill}" '
+         f'stroke="{st}" stroke-width="{f(sw)}"')
+    return f'<circle{_dedupe(a, extra)}/>' 
 
 
 def ellipse(cx, cy, rx, ry, fill=CREAM, stroke=BLUE, sw=SW, extra=""):
     st = "none" if stroke is None else stroke
-    return (f'<ellipse cx="{f(cx)}" cy="{f(cy)}" rx="{f(rx)}" ry="{f(ry)}" '
-            f'fill="{fill}" stroke="{st}" stroke-width="{f(sw)}"{extra}/>')
+    a = (f' cx="{f(cx)}" cy="{f(cy)}" rx="{f(rx)}" ry="{f(ry)}" '
+         f'fill="{fill}" stroke="{st}" stroke-width="{f(sw)}"')
+    return f'<ellipse{_dedupe(a, extra)}/>' 
 
 
 def path(d, fill="none", stroke=BLUE, sw=SW, extra=""):
     st = "none" if stroke is None else stroke
-    return (f'<path d="{d}" fill="{fill}" stroke="{st}" stroke-width="{f(sw)}" '
-            f'stroke-linecap="round" stroke-linejoin="round"{extra}/>')
+    a = (f' d="{d}" fill="{fill}" stroke="{st}" stroke-width="{f(sw)}" '
+         f'stroke-linecap="round" stroke-linejoin="round"')
+    return f'<path{_dedupe(a, extra)}/>' 
 
 
 def arrow_head(x, y, ang, size=16, fill=BLUE):

@@ -475,11 +475,9 @@ def rasm_2_2():
     def edge_x(y):       # o'ng chetning y dagi x koordinatasi
         t = (y - tr_[1]) / (br_[1] - tr_[1])
         return tr_[0] + t * (br_[0] - tr_[0])
-    y1 = tr_[1] + 70
-    y1 = tr_[1] + 110
-    labels.append(text(edge_x(y1 - 10) + 28, y1, "Quyosh"))
-    labels.append(leader([(edge_x(y1 - 10) + 18, y1 - 10), (scc[0] + srad * 0.9, y1 - 10),
-                          (scc[0] + srad * 0.42, scc[1] - srad * 0.5)]))
+    qx_ = scc[0] + srad * 0.25
+    labels.append(text(qx_ + 14, tr_[1] - 10, "Quyosh"))
+    labels.append(leader([(qx_, tr_[1] - 18), (qx_, scc[1] - srad * 0.55)]))
     q = S(np.array([[6.2, -3.4, zf(6.2, -3.4)]]))[0]
     y2 = tr_[1] - 2
     labels.append(text(W - 12, y2 - 6, "egrilangan fazo", anchor="end"))

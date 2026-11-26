@@ -333,17 +333,17 @@
 <line x1="298.3" y1="302.5" x2="492.5" y2="184.7" stroke="#1F3A5F" stroke-width="2.1" stroke-linecap="round"/>
 <circle cx="418" cy="118" r="100" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="3.7"/>
 <line x1="466" y1="118" x2="442" y2="159.6" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="466" y1="118" x2="496" y2="118" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="466" y1="118" x2="496" y2="118" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <line x1="442" y1="159.6" x2="394" y2="159.6" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="442" y1="159.6" x2="457" y2="185.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="442" y1="159.6" x2="457" y2="185.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <line x1="394" y1="159.6" x2="370" y2="118" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="394" y1="159.6" x2="379" y2="185.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="394" y1="159.6" x2="379" y2="185.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <line x1="370" y1="118" x2="394" y2="76.4" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="370" y1="118" x2="340" y2="118" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="370" y1="118" x2="340" y2="118" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <line x1="394" y1="76.4" x2="442" y2="76.4" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="394" y1="76.4" x2="379" y2="50.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="394" y1="76.4" x2="379" y2="50.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <line x1="442" y1="76.4" x2="466" y2="118" stroke="#9A9A9A" stroke-width="9" stroke-linecap="round"/>
-<line x1="442" y1="76.4" x2="457" y2="50.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="round" stroke-linecap="butt"/>
+<line x1="442" y1="76.4" x2="457" y2="50.5" stroke="#C9C9C9" stroke-width="9" stroke-linecap="butt"/>
 <circle cx="466" cy="118" r="15" fill="url(#atom)" stroke="#3C3C3C" stroke-width="1.9"/>
 <circle cx="442" cy="159.6" r="15" fill="url(#atom)" stroke="#3C3C3C" stroke-width="1.9"/>
 <circle cx="394" cy="159.6" r="15" fill="url(#atom)" stroke="#3C3C3C" stroke-width="1.9"/>

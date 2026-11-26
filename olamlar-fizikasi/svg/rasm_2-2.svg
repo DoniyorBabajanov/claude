@@ -85,9 +85,9 @@
 <polygon points="509.3,267.2 491.1,264.6 494.7,278.4" fill="#B8553A" stroke="none" stroke-width="0" stroke-linejoin="round"/>
 </g>
 <g id="yozuvlar" inkscape:groupmode="layer" inkscape:label="yozuvlar" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif">
-<text x="897.7" y="213.9" font-size="30" text-anchor="start" fill="#1F3A5F">Quyosh</text>
-<polyline points="887.7,203.9 628.8,203.9 592.1,332.3" fill="none" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="592.1" cy="332.3" r="4.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<text x="593.1" y="93.9" font-size="30" text-anchor="start" fill="#1F3A5F">Quyosh</text>
+<polyline points="579.1,85.9 579.1,328.5" fill="none" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="579.1" cy="328.5" r="4.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
 <text x="1108" y="95.9" font-size="30" text-anchor="end" fill="#1F3A5F">egrilangan fazo</text>
 <polyline points="960,107.9 960,141.9 817.6,410.1" fill="none" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="817.6" cy="410.1" r="4.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
