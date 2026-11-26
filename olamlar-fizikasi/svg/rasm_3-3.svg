@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="54mm" height="54mm" viewBox="0 0 540 540">
+<title>Rasm 3.3. Ikki o‘lchamli Boze–Eynshteyn kondensatidagi uyurmalar</title>
+<desc>«Olamlar fizikasi» kitobi uchun original rasm. Yozuvlar alohida «yozuvlar» qatlamida.</desc>
+<defs>
+<radialGradient id="bulut">
+  <stop offset="0" stop-color="#FFF7E6"/>
+  <stop offset="0.45" stop-color="#D4C09B"/>
+  <stop offset="0.78" stop-color="#A67C2E" stop-opacity="0.75"/>
+  <stop offset="1" stop-color="#A67C2E" stop-opacity="0"/></radialGradient>
+<radialGradient id="ozak">
+  <stop offset="0" stop-color="#0D1826"/><stop offset="0.45" stop-color="#0D1826"/>
+  <stop offset="1" stop-color="#0D1826" stop-opacity="0"/></radialGradient>
+</defs>
+<g id="rasm" inkscape:groupmode="layer" inkscape:label="rasm">
+<rect x="0" y="0" width="540" height="540" fill="#0D1826"/>
+<circle cx="270" cy="282" r="205" fill="url(#bulut)" stroke="none" stroke-width="0"/>
+<circle cx="263.6" cy="327.7" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="233.6" cy="253.6" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="312.8" cy="264.7" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="184.4" cy="316.6" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="282.9" cy="190.5" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="342.8" cy="338.9" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="214.3" cy="390.8" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="293.5" cy="401.9" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="154.4" cy="242.4" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="203.6" cy="179.4" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="362.1" cy="201.7" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<circle cx="392" cy="275.8" r="22" fill="url(#ozak)" stroke="none" stroke-width="0"/>
+<polyline points="234.4,317.1 233.1,322 232.6,327 232.9,332.1 234,337 235.9,341.7 238.5,346 241.8,349.8 245.6,353 250,355.6 254.7,357.4 259.6,358.5 264.7,358.7 269.7,358.1 274.5,356.7 279.1,354.6 283.2,351.7 286.8,348.2 289.9,344.2 292.2,339.7 293.7,334.9 294.5,329.9 294.4,324.9 293.6,319.9 291.9,315.1 289.5,310.7 286.4,306.7 282.7,303.3 278.4,300.5" fill="none" stroke="#F3EEE3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="269,297.2 279.4,306.7 283,296.4" fill="#F3EEE3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="253.7,179.9 252.4,184.8 251.9,189.8 252.2,194.8 253.3,199.8 255.2,204.4 257.8,208.7 261.1,212.6 264.9,215.8 269.3,218.4 274,220.2 278.9,221.3 283.9,221.5 288.9,220.9 293.8,219.5 298.4,217.4 302.5,214.5 306.1,211 309.1,207 311.5,202.5 313,197.7 313.8,192.7 313.7,187.6 312.8,182.7 311.2,177.9 308.8,173.5 305.7,169.5 301.9,166.1 297.7,163.3" fill="none" stroke="#F3EEE3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="288.2,160 298.7,169.4 302.3,159.1" fill="#F3EEE3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="174.5,168.8 173.2,173.7 172.6,178.7 172.9,183.7 174,188.6 175.9,193.3 178.6,197.6 181.8,201.4 185.7,204.7 190,207.3 194.7,209.1 199.7,210.1 204.7,210.4 209.7,209.8 214.6,208.4 219.1,206.2 223.3,203.4 226.9,199.9 229.9,195.8 232.2,191.3 233.8,186.5 234.6,181.6 234.5,176.5 233.6,171.5 232,166.8 229.5,162.4 226.4,158.4 222.7,155 218.5,152.2" fill="none" stroke="#F3EEE3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="209,148.9 219.5,158.3 223.1,148" fill="#F3EEE3" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+</g>
+<g id="yozuvlar" inkscape:groupmode="layer" inkscape:label="yozuvlar" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif">
+<text x="18" y="38" font-size="30" text-anchor="start" fill="#F3EEE3">kondensat</text>
+<polyline points="70,50 70,78 134.7,154.9" fill="none" stroke="#F3EEE3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="134.7" cy="154.9" r="4.2" fill="#F3EEE3" stroke="none" stroke-width="0"/>
+<text x="522" y="520" font-size="30" text-anchor="end" fill="#F3EEE3">uyurma o‘zagi</text>
+<polyline points="430,488 430,441.9 302.5,410.9" fill="none" stroke="#F3EEE3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="302.5" cy="410.9" r="4.2" fill="#F3EEE3" stroke="none" stroke-width="0"/>
+</g>
+</svg>
