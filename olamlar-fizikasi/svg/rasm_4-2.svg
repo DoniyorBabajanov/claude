@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="112mm" height="60mm" viewBox="0 0 1120 600">
+<title>Rasm 4.2. Chumoli va arqon</title>
+<desc>«Olamlar fizikasi» kitobi uchun original rasm. Yozuvlar alohida «yozuvlar» qatlamida.</desc>
+<defs>
+<linearGradient id="arqon" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#C1A46D"/><stop offset="0.35" stop-color="#DCCCAD"/>
+  <stop offset="1" stop-color="#8C6C32"/></linearGradient>
+</defs>
+<g id="rasm" inkscape:groupmode="layer" inkscape:label="rasm">
+<line x1="20" y1="262" x2="1100" y2="262" stroke="#C9C9C9" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="79" y="128.7" width="26" height="133.3" rx="5" fill="#7C725E"/>
+<circle cx="92" cy="107.2" r="64.5" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="44.7" cy="133" r="47.3" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="139.3" cy="133" r="47.3" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="92" cy="68.5" r="47.3" fill="#B28D49" stroke="none" stroke-width="0"/>
+<circle cx="64" cy="90" r="43" fill="#B28D49" stroke="none" stroke-width="0"/>
+<circle cx="124.2" cy="85.7" r="43" fill="#B28D49" stroke="none" stroke-width="0"/>
+<rect x="1015" y="128.7" width="26" height="133.3" rx="5" fill="#7C725E"/>
+<circle cx="1028" cy="107.2" r="64.5" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="980.7" cy="133" r="47.3" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="1075.3" cy="133" r="47.3" fill="#926D28" stroke="none" stroke-width="0"/>
+<circle cx="1028" cy="68.5" r="47.3" fill="#B28D49" stroke="none" stroke-width="0"/>
+<circle cx="1000" cy="90" r="43" fill="#B28D49" stroke="none" stroke-width="0"/>
+<circle cx="1060.2" cy="85.7" r="43" fill="#B28D49" stroke="none" stroke-width="0"/>
+<path d="M105,192 Q560,208 1015,192" fill="none" stroke="#3C3C3C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="575" y1="200" x2="710" y2="432" stroke="#1F3A5F" stroke-width="2.1" stroke-linecap="round"/>
+<line x1="545" y1="200" x2="410" y2="432" stroke="#1F3A5F" stroke-width="2.1" stroke-linecap="round"/>
+<circle cx="560" cy="200" r="15" fill="none" stroke="#1F3A5F" stroke-width="2.6"/>
+<clipPath id="lupaKlip"><circle cx="560" cy="432" r="150"/></clipPath>
+<g clip-path="url(#lupaKlip)">
+<circle cx="560" cy="432" r="150" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="405" y="374" width="310" height="116" fill="url(#arqon)"/>
+<line x1="410" y1="374" x2="710" y2="374" stroke="#3C3C3C" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="410" y1="490" x2="710" y2="490" stroke="#3C3C3C" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M298,490 Q320,432 342,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M328,490 Q350,432 372,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M358,490 Q380,432 402,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M388,490 Q410,432 432,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M418,490 Q440,432 462,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M448,490 Q470,432 492,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M478,490 Q500,432 522,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M508,490 Q530,432 552,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M538,490 Q560,432 582,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M568,490 Q590,432 612,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M598,490 Q620,432 642,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M628,490 Q650,432 672,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M658,490 Q680,432 702,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M688,490 Q710,432 732,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M718,490 Q740,432 762,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M748,490 Q770,432 792,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M778,490 Q800,432 822,374" fill="none" stroke="#957029" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M652,374 A16,58 0 0 0 652,490" fill="none" stroke="#B8553A" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+</g>
+<path d="M652,490 A16,58 0 0 0 652,374" fill="none" stroke="#B8553A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="649,378 644.7,397 659.6,394.4" fill="#B8553A" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="560" cy="432" r="150" fill="none" stroke="#1F3A5F" stroke-width="4"/>
+<path d="M507.7,422.6 q-9.2,-18.4 -23,25.3" fill="none" stroke="#3C3C3C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M519.2,422.6 q0.9,-18.4 2.3,25.3" fill="none" stroke="#3C3C3C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M530.7,422.6 q11,-18.4 27.6,25.3" fill="none" stroke="#3C3C3C" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="480.1" cy="415.7" rx="27.6" ry="19.5" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<ellipse cx="516.9" cy="413.4" rx="14.9" ry="11.5" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<circle cx="545.6" cy="403.1" r="17.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<path d="M548,388.1 q2.3,-23 20.7,-27.6" fill="none" stroke="#3C3C3C" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M539.9,388.1 q-4.6,-20.7 6.9,-32.2" fill="none" stroke="#3C3C3C" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="568.6" cy="360.5" r="4" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<circle cx="546.8" cy="355.9" r="4" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+<circle cx="551.4" cy="398.4" r="7.5" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<circle cx="553.7" cy="399" r="3.7" fill="#111111" stroke="none" stroke-width="0"/>
+<path d="M549.1,412.2 q6.9,5.8 12.6,-2.3" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="420" y1="462" x2="597.6" y2="462" stroke="#1F3A5F" stroke-width="3.7" stroke-linecap="round"/>
+<polygon points="612,462 594,454.4 594,469.6" fill="#1F3A5F" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+</g>
+<g id="yozuvlar" inkscape:groupmode="layer" inkscape:label="yozuvlar" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif">
+<text x="370" y="170" font-size="30" text-anchor="middle" fill="#1F3A5F">uzoqdan: 1 o‘lcham</text>
+<text x="384" y="312" font-size="30" text-anchor="end" fill="#1F3A5F">yaqindan:</text>
+<text x="384" y="348" font-size="30" text-anchor="end" fill="#1F3A5F">2 o‘lcham</text>
+<text x="750" y="540" font-size="30" text-anchor="start" fill="#1F3A5F">o‘ralgan o‘lcham</text>
+<polyline points="742,530 700,530 669,454" fill="none" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="669" cy="454" r="4.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+</g>
+</svg>
