@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="54mm" height="76mm" viewBox="0 0 540 760">
+<title>Rasm 2.4. Fazo-vaqt tuneli: buklangan qog‘oz</title>
+<desc>«Olamlar fizikasi» kitobi uchun original rasm. Yozuvlar alohida «yozuvlar» qatlamida.</desc>
+<defs>
+<linearGradient id="bukilish" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#C2C0BB"/><stop offset="1" stop-color="#EBE7DE"/></linearGradient>
+</defs>
+<g id="rasm" inkscape:groupmode="layer" inkscape:label="rasm">
+<polygon points="40,250 430,250 500,130 110,130" fill="#F3EEE3" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<line x1="105" y1="190" x2="435" y2="190" stroke="#B8553A" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="12 9"/>
+<circle cx="105" cy="190" r="8" fill="#1F3A5F" stroke="none" stroke-width="0"/>
+<circle cx="435" cy="190" r="8" fill="#1F3A5F" stroke="none" stroke-width="0"/>
+<line x1="270" y1="272" x2="270" y2="302" stroke="#9A9A9A" stroke-width="3.7" stroke-linecap="round"/>
+<polygon points="270,318 278.4,298 261.6,298" fill="#9A9A9A" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="140,650 135.6,649.9 131.2,649.4 126.8,648.7 122.5,647.7 118.3,646.4 114.2,644.9 110.1,643 106.3,641 102.5,638.6 98.9,636.1 95.5,633.2 92.3,630.2 89.3,627 86.4,623.6 83.9,620 81.5,616.2 79.5,612.4 77.6,608.3 76.1,604.2 74.8,600 73.8,595.7 73.1,591.3 72.6,586.9 72.5,582.5 72.6,578.1 73.1,573.7 73.8,569.3 74.8,565 76.1,560.8 77.6,556.7 79.5,552.6 81.5,548.8 83.9,545 86.4,541.4 89.3,538 92.3,534.8 95.5,531.8 98.9,528.9 102.5,526.4 106.2,524 110.1,522 114.2,520.1 118.3,518.6 122.5,517.3 126.8,516.3 131.2,515.6 135.6,515.1 140,515 210,395 210,530" fill="#B7B4AE" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<clipPath id="qalamPast"><rect x="395" y="590" width="80" height="130"/></clipPath><g clip-path="url(#qalamPast)"><rect x="420" y="315" width="30" height="24" rx="6" fill="#B8553A" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="335" width="30" height="20" fill="#C9C9C9" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="355" width="30" height="291" fill="#A67C2E" stroke="#1F3A5F" stroke-width="2.65"/>
+<line x1="430" y1="357" x2="430" y2="644" stroke="#C9AF7F" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="440" y1="357" x2="440" y2="644" stroke="#7C5D22" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="420,646 450,646 435,708" fill="#E0D2B6" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<polygon points="429.9,686.9 440.1,686.9 435,708" fill="#3C3C3C" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/></g>
+<polygon points="140,650 440,650 510,530 210,530" fill="#E0DDD7" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<ellipse cx="435" cy="590" rx="19" ry="8" fill="#3C3C3C" stroke="#1F3A5F" stroke-width="2.6"/>
+<polygon points="151.7,428.5 152.4,427.2 153.2,426 154,424.8 154.9,423.6 155.7,422.4 156.6,421.2 157.5,420 158.5,418.9 159.4,417.8 160.4,416.7 161.4,415.7 162.4,414.6 163.5,413.6 164.6,412.6 165.7,411.6 166.8,410.7 167.9,409.7 169.1,408.8 170.2,408 171.4,407.1 172.6,406.3 173.9,405.5 175.1,404.7 176.4,404 177.7,403.3 179,402.6 180.3,401.9 181.6,401.3 182.9,400.7 184.3,400.1 185.6,399.6 187,399 188.4,398.6 189.8,398.1 191.2,397.7 192.6,397.3 194,396.9 195.5,396.6 196.9,396.3 198.3,396 199.8,395.8 201.2,395.6 202.7,395.4 204.1,395.3 205.6,395.1 207.1,395.1 208.5,395 210,395 140,515 138.5,515 137.1,515.1 135.6,515.1 134.1,515.3 132.7,515.4 131.2,515.6 129.8,515.8 128.3,516 126.9,516.3 125.5,516.6 124,516.9 122.6,517.3 121.2,517.7 119.8,518.1 118.4,518.6 117,519 115.6,519.6 114.3,520.1 112.9,520.7 111.6,521.3 110.3,521.9 109,522.6 107.7,523.3 106.4,524 105.1,524.7 103.9,525.5 102.6,526.3 101.4,527.1 100.2,528 99.1,528.8 97.9,529.7 96.8,530.7 95.7,531.6 94.6,532.6 93.5,533.6 92.4,534.6 91.4,535.7 90.4,536.7 89.4,537.8 88.5,538.9 87.5,540 86.6,541.2 85.7,542.4 84.9,543.6 84,544.8 83.2,546 82.4,547.2 81.7,548.5" fill="url(#bukilish)" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="81.7" y1="548.5" x2="151.7" y2="428.5" stroke="#1F3A5F" stroke-width="2.6" stroke-linecap="round"/>
+<polyline points="151.7,428.5 152.4,427.2 153.2,426 154,424.8 154.9,423.6 155.7,422.4 156.6,421.2 157.5,420 158.5,418.9 159.4,417.8 160.4,416.7 161.4,415.7 162.4,414.6 163.5,413.6 164.6,412.6 165.7,411.6 166.8,410.7 167.9,409.7 169.1,408.8 170.2,408 171.4,407.1 172.6,406.3 173.9,405.5 175.1,404.7 176.4,404 177.7,403.3 179,402.6 180.3,401.9 181.6,401.3 182.9,400.7 184.3,400.1 185.6,399.6 187,399 188.4,398.6 189.8,398.1 191.2,397.7 192.6,397.3 194,396.9 195.5,396.6 196.9,396.3 198.3,396 199.8,395.8 201.2,395.6 202.7,395.4 204.1,395.3 205.6,395.1 207.1,395.1 208.5,395 210,395" fill="none" stroke="#1F3A5F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="140,650 135.6,649.9 131.2,649.4 126.8,648.7 122.5,647.7 118.3,646.4 114.2,644.9 110.1,643 106.3,641 102.5,638.6 98.9,636.1 95.5,633.2 92.3,630.2 89.3,627 86.4,623.6 83.9,620 81.5,616.2 79.5,612.4 77.6,608.3 76.1,604.2 74.8,600 73.8,595.7 73.1,591.3 72.6,586.9 72.5,582.5 72.6,578.1 73.1,573.7 73.8,569.3 74.8,565 76.1,560.8 77.6,556.7 79.5,552.6 81.5,548.8 83.9,545 86.4,541.4 89.3,538 92.3,534.8 95.5,531.8 98.9,528.9 102.5,526.4 106.2,524 110.1,522 114.2,520.1 118.3,518.6 122.5,517.3 126.8,516.3 131.2,515.6 135.6,515.1 140,515" fill="none" stroke="#1F3A5F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<clipPath id="qalamOrta"><rect x="395" y="455" width="80" height="135"/></clipPath><g clip-path="url(#qalamOrta)"><rect x="420" y="315" width="30" height="24" rx="6" fill="#B8553A" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="335" width="30" height="20" fill="#C9C9C9" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="355" width="30" height="291" fill="#A67C2E" stroke="#1F3A5F" stroke-width="2.65"/>
+<line x1="430" y1="357" x2="430" y2="644" stroke="#C9AF7F" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="440" y1="357" x2="440" y2="644" stroke="#7C5D22" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="420,646 450,646 435,708" fill="#E0D2B6" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<polygon points="429.9,686.9 440.1,686.9 435,708" fill="#3C3C3C" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/></g>
+<polygon points="140,515 440,515 510,395 210,395" fill="#F3EEE3" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<ellipse cx="435" cy="455" rx="19" ry="8" fill="#3C3C3C" stroke="#1F3A5F" stroke-width="2.6"/>
+<clipPath id="qalamTepa"><rect x="395" y="255" width="80" height="200"/></clipPath><g clip-path="url(#qalamTepa)"><rect x="420" y="315" width="30" height="24" rx="6" fill="#B8553A" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="335" width="30" height="20" fill="#C9C9C9" stroke="#1F3A5F" stroke-width="2.65"/>
+<rect x="420" y="355" width="30" height="291" fill="#A67C2E" stroke="#1F3A5F" stroke-width="2.65"/>
+<line x1="430" y1="357" x2="430" y2="644" stroke="#C9AF7F" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="440" y1="357" x2="440" y2="644" stroke="#7C5D22" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="420,646 450,646 435,708" fill="#E0D2B6" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/>
+<polygon points="429.9,686.9 440.1,686.9 435,708" fill="#3C3C3C" stroke="#1F3A5F" stroke-width="2.6" stroke-linejoin="round"/></g>
+</g>
+<g id="yozuvlar" inkscape:groupmode="layer" inkscape:label="yozuvlar" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif">
+<text x="105" y="172" font-size="30" text-anchor="middle" fill="#1F3A5F" font-weight="bold">A</text>
+<text x="435" y="172" font-size="30" text-anchor="middle" fill="#1F3A5F" font-weight="bold">B</text>
+<text x="270" y="230" font-size="30" text-anchor="middle" fill="#1F3A5F">uzun yo‘l</text>
+<text x="401" y="465" font-size="30" text-anchor="end" fill="#1F3A5F" font-weight="bold">A</text>
+<text x="401" y="600" font-size="30" text-anchor="end" fill="#1F3A5F" font-weight="bold">B</text>
+<text x="28" y="742" font-size="30" text-anchor="start" fill="#1F3A5F">qisqa yo‘l (tunel)</text>
+<polyline points="255,732 340,732 340,549 418,549" fill="none" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="418" cy="549" r="4.2" fill="#3C3C3C" stroke="none" stroke-width="0"/>
+</g>
+</svg>
