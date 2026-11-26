@@ -51,6 +51,30 @@ Topshiriqdagi 19 ta rasm, kitobdagi raqamlanish bo‘yicha.
 - Topshiriqda avval qora qalamda eskiz so‘ralgan edi. Bu yerda darhol rangli variantlar tayyorlandi;
   ilmiy aniqlikni tekshirib, izohlarni bering — tuzatish oson.
 
+## Blender varianti (9 ta rasm)
+
+Hajmli mavzudagi 9 ta rasm qo‘shimcha ravishda Blender’da (Cycles) ham yaratildi:
+**2.2, 2.4, 3.2, 3.4, 4.1, 4.3, 4.4, 6.3, 6.4**.
+
+| Papka / fayl | Nima bor |
+|---|---|
+| `blender/svg/` | Render rasm «rasm» qatlamida, yozuvlar alohida «yozuvlar» qatlamida (tahrirlanadigan matn). |
+| `blender/png/` | Yozuvlari bilan, 300 dpi. |
+| `blender/render/` | Yozuvsiz toza render, 300 dpi. |
+| `blender/blend/` | Blender sahnalari — kamera, yorug‘lik va ranglarni o‘zingiz o‘zgartirishingiz mumkin. |
+| `olamlar_fizikasi_rasmlar_maket_blender.pdf` | Maket: shu 9 rasm Blender variantida, qolgan 10 tasi vektor. |
+| `olamlar_fizikasi_rasmlar_oq-qora_blender.pdf` | O‘sha maketning oq-qora ko‘rinishi. |
+
+E’tiborga oling:
+- Blender rasmlari rastr (300 dpi) va yumshoq soyali hajmli uslubda. Topshiriqdagi «tekis vektor
+  uslubi» talabidan farq qiladi — qaysi variantni tanlash muallifning ixtiyorida.
+- Qolgan 10 rasm (2.1, 2.3, 3.1, 3.3, 4.2, 5.1, 5.2, 5.3, 6.1, 6.2) mohiyatan tekis sxema yoki
+  xarita, shuning uchun ular faqat vektor variantda. Masalan, 3.1 da figuralar «mutlaqo yassi» bo‘lishi shart.
+- Unsplash ishlatilmadi: topshiriqning 6-bandi internetdagi rasmlarni, 3-bandi esa fotorealizmni taqiqlaydi.
+
+Qayta yaratish: `pip install bpy` (Blender 5.3, Python 3.13), so‘ng
+`cd blender && python3 bl_rasmlar.py 2-2 2-4 3-2 3-4 4-1 4-3 4-4 6-3 6-4`.
+
 ## Qayta yaratish
 
 ```bash

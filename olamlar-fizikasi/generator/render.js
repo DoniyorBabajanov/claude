@@ -3,8 +3,8 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
-const SVG_DIR = path.join(__dirname, '..', 'svg');
-const PNG_DIR = path.join(__dirname, '..', 'png');
+const SVG_DIR = process.env.SVG_DIR || path.join(__dirname, '..', 'svg');
+const PNG_DIR = process.env.PNG_DIR || path.join(__dirname, '..', 'png');
 const DPI = 300;
 
 (async () => {
